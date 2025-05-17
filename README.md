@@ -1,4 +1,4 @@
-👋   Hi there, Im Turbomer.
+👋   Hi there, Im Omer.
 
 💻   I am currently working on Full Stack Web Development.
 
